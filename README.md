@@ -34,11 +34,7 @@
 
 ## Install
 
-**Clone Repository**
 
-```bash
-git clone https://github.com/musyahya/laravel8_perpustakaan.git
-```
 
 **Download zip**
 

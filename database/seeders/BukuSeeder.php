@@ -1,6 +1,6 @@
 <?php
 
-namespace Database\Seeders;
+namespace Database\Seeder;
 
 use App\Models\Buku;
 use Illuminate\Database\Seeder;
